@@ -1,6 +1,6 @@
 # DIVISIUM-10
 
-DIVISIUM-10 is a tiny multi-challenge puzzle made with HTML, CSS and native JavaScript.
+DIVISIUM-10 is a tiny multi-challenge puzzle game made with HTML, CSS and native JavaScript.
 
 <img src="images/capture.png" alt="Game example" />
 
